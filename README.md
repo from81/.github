@@ -8,7 +8,6 @@ Currently pursuing M.S. in Computing. Previously Data Analyst @ Airbnb.
 - Python. I love coding in Python. I dream in Python.
 - I speak English, Japanese, and a bit of Mandarin Chinese and I can also comprehend Taiwanese.
 - I've lived in Taipei, Tokyo, Beijing, SF Bay Area, and now living in Sydney.
-- Anime lover (Dragon Ball Z is still my all-time #1)
 
 ## Skills
 - Programming Languages: Python, Bash, SQL, Java
