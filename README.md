@@ -19,8 +19,3 @@ Currently pursuing M.S. in Computing. Previously Data Analyst @ Airbnb.
 - Database / Big Data: SQL, NoSQL (MongoDB, Cassandra), Spark
 - Cloud: AWS S3, EC2, Fargate, Docker
 - ETL: Apache Airflow
-
-## Currently learning
-- Deep Learning & Neural Networks
-- Java
-- AWS 
