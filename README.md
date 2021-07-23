@@ -10,7 +10,7 @@ Currently pursuing M.S. in Computing. Previously Data Analyst @ Airbnb.
 - I've lived in Taipei, Tokyo, Beijing, SF Bay Area, and now living in Sydney.
 
 ## Skills
-- Programming Languages: Python, Bash, SQL, Java
+- Programming Languages: Python, Bash, SQL, Java, Scala
 - Data Analysis & Visualization
 - Statistical analysis (t test, hypothesis testing)
 - Machine Learning
